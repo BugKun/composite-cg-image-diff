@@ -25,4 +25,10 @@ def replaceColorToTransparent(img, r, g, b):
     return img
 ```
 
+## Usage
+Modify the code of `index.py` according to the actual situation, and then run it.
+```bash
+python3 index.py
+```
+
 [中文说明](readme.md)
